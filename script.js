@@ -1,8 +1,7 @@
 //your JS code here. If required.
 
 function compareTwo(n,m){
-	if(n === m) return true;
-	else false;
+	return n === m;
 }
 
 const n = parseInt(prompt("Enter number: "));
